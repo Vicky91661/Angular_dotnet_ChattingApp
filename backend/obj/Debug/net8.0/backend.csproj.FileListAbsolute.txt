@@ -33,3 +33,4 @@ C:\Users\kumar\coding things\Fullstack Development\Angular_SignalR_WebChat\backe
 C:\Users\kumar\coding things\Fullstack Development\Angular_SignalR_WebChat\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\kumar\coding things\Fullstack Development\Angular_SignalR_WebChat\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\kumar\coding things\Fullstack Development\Angular_SignalR_WebChat\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\kumar\coding things\Fullstack Development\Angular_SignalR_WebChat\backend\obj\Debug\net8.0\backend.sourcelink.json
